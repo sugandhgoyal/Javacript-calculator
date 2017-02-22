@@ -1,0 +1,19 @@
+.calculator {
+  height: 420px;
+  width: 330px;
+  background-color: #B4F182;
+}
+
+input {
+  height: 70px;
+  width: 300px;
+  margin: 8px;
+  background-color: #F37B87;
+  font-size: 40px;
+}
+
+.btn {
+  font-size: 25px;
+  padding: 15px 15px;
+  display: inline-block;
+}
